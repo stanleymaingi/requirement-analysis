@@ -22,3 +22,24 @@ Requirement Analysis plays a crucial role in the Software Development Lifecycle 
 
 3. **Improves Planning and Design:**  
    With a clear understanding of requirements, teams can plan resources, design architecture, and implement solutions that are aligned with business goals, resulting in higher quality software.
+
+
+## Key Activities in Requirement Analysis
+
+The following are the five key activities involved in Requirement Analysis:
+
+- **Requirement Gathering:**  
+  Collect information from stakeholders, users, and other sources to understand what the system should achieve.
+
+- **Requirement Elicitation:**  
+  Engage with stakeholders through interviews, surveys, workshops, and observations to uncover implicit and explicit requirements.
+
+- **Requirement Documentation:**  
+  Record all gathered and elicited requirements in a clear, structured format, such as SRS (Software Requirements Specification), to ensure shared understanding.
+
+- **Requirement Analysis and Modeling:**  
+  Examine the requirements to identify conflicts, dependencies, and priorities. Use models like use case diagrams, data flow diagrams, or prototypes to visualize requirements.
+
+- **Requirement Validation:**  
+  Confirm with stakeholders that documented requirements are complete, accurate, and aligned with business objectives before moving to design and development.
+
