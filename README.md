@@ -77,3 +77,20 @@ A Use Case Diagram is a visual representation of the interactions between users 
 - Serve as a reference during system design and development  
 
 Below is a Use Case Diagram for the Booking Management System:
+
+
+## Acceptance Criteria
+
+Acceptance Criteria define the conditions that a software feature must satisfy to be considered complete and acceptable by stakeholders. They serve as a clear agreement between developers, testers, and stakeholders on what “done” means for a particular requirement. Well-defined acceptance criteria help:
+
+- Ensure that the delivered feature meets user expectations  
+- Reduce misunderstandings between development and stakeholders  
+- Provide a clear basis for testing and validation  
+
+**Example: Checkout Feature in Booking Management System**  
+
+- Users can select multiple bookings and proceed to checkout without errors.  
+- Payment options (credit card, mobile money, or PayPal) are available and functional.  
+- The system confirms the booking with an email notification immediately after successful payment.  
+- Total price is calculated accurately including taxes and any discounts.  
+- Checkout page must load within 2 seconds on both mobile and desktop devices.
