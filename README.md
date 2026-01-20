@@ -43,3 +43,26 @@ The following are the five key activities involved in Requirement Analysis:
 - **Requirement Validation:**  
   Confirm with stakeholders that documented requirements are complete, accurate, and aligned with business objectives before moving to design and development.
 
+## Types of Requirements
+
+In software development, requirements are typically classified into **Functional** and **Non-functional** requirements. Understanding both is essential for building a system that meets user needs effectively.
+
+### Functional Requirements
+
+Functional requirements describe **what the system should do** — the specific features and behaviors expected.
+
+**Examples for a Booking Management Project:**
+- Users can create, update, and cancel bookings.
+- The system sends email notifications to confirm bookings.
+- Admins can generate booking reports.
+- Users can search for available slots by date and time.
+
+### Non-functional Requirements
+
+Non-functional requirements describe **how the system should perform** — qualities and constraints rather than specific functions.
+
+**Examples for a Booking Management Project:**
+- The system must respond to user actions within 2 seconds.  
+- The website must be accessible on mobile and desktop devices.  
+- All user data must be securely stored and comply with data privacy regulations.  
+- The system should handle at least 500 concurrent users without crashing.
