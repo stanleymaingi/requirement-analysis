@@ -66,3 +66,14 @@ Non-functional requirements describe **how the system should perform** — quali
 - The website must be accessible on mobile and desktop devices.  
 - All user data must be securely stored and comply with data privacy regulations.  
 - The system should handle at least 500 concurrent users without crashing.
+
+
+## Use Case Diagrams
+
+A Use Case Diagram is a visual representation of the interactions between users (actors) and a system. It helps to identify the system’s functional requirements and illustrates how different users engage with various system features. Use Case Diagrams are valuable because they:
+
+- Provide a clear overview of system functionality  
+- Help stakeholders understand requirements quickly  
+- Serve as a reference during system design and development  
+
+Below is a Use Case Diagram for the Booking Management System:
